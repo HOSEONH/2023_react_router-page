@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/HOSEONH/2023_react_router-page/static/css/main.073c9b0a.css",
-    "main.js": "/HOSEONH/2023_react_router-page/static/js/main.85624fe3.js",
+    "main.js": "/HOSEONH/2023_react_router-page/static/js/main.b021603d.js",
     "static/js/787.420f8413.chunk.js": "/HOSEONH/2023_react_router-page/static/js/787.420f8413.chunk.js",
     "static/media/logo.svg": "/HOSEONH/2023_react_router-page/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/HOSEONH/2023_react_router-page/index.html",
     "main.073c9b0a.css.map": "/HOSEONH/2023_react_router-page/static/css/main.073c9b0a.css.map",
-    "main.85624fe3.js.map": "/HOSEONH/2023_react_router-page/static/js/main.85624fe3.js.map",
+    "main.b021603d.js.map": "/HOSEONH/2023_react_router-page/static/js/main.b021603d.js.map",
     "787.420f8413.chunk.js.map": "/HOSEONH/2023_react_router-page/static/js/787.420f8413.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.85624fe3.js"
+    "static/js/main.b021603d.js"
   ]
 }
